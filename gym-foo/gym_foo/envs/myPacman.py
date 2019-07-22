@@ -1,7 +1,7 @@
 '''
 Created on 4 feb 2019
 
-@author: Michele Ciciolla
+@author: Flavio Lorenzi
 
 '''
 #!/usr/bin/env python
