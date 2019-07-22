@@ -3,7 +3,7 @@ version 1.02
 
 Created on 22 gen 2019
 
-@author: Boston Dynamics $$$ FlaMik corporation
+@author: Flavio Lorenzi
 
 '''
 
