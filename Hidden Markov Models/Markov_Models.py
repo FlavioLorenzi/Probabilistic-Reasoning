@@ -3,7 +3,7 @@ Created on 10 gen 2019
 
 version 2.1
 
-@author: Michele Ciciolla e Flavio Lorenzi
+@author: Flavio Lorenzi
 '''
 
 import numpy as np
