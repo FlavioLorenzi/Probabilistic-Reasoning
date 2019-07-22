@@ -1,7 +1,7 @@
 '''
 Created on 5 feb 2019
 
-@author: Michele Ciciolla
+@author:Flavio Lorenzi
 '''
 import gym
 import gym_foo
