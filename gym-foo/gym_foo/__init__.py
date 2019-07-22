@@ -1,7 +1,7 @@
 '''
 Created on 5 feb 2019
 
-@author: Michele Ciciolla
+@author: Lorenzi Flavio
 '''
 
 from gym.envs.registration import register
